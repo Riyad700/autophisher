@@ -1,0 +1,10 @@
+apt upgrade
+
+apt install git
+
+git clone https://github.com/CodingRanjith/autophisher.git
+ls
+
+cd autophisher
+
+bash autophisher.sh
